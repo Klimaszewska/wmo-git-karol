@@ -1,6 +1,7 @@
 public class SomeProgram {
 
     public static void manageRockets(){
+    public static void manageSatellite(){
         //TODO: implement
     }
 
